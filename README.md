@@ -1,4 +1,4 @@
-# FisCherChessRandomizer
+# Fischer Chess Randomizer
 
 Fischer ramdom chess or Chess960 is a variation of chess where the starting position of the pieces on the players' home ranks is randomized, taking into account a set of rules:
 - The king must be situated between the two rooks.
